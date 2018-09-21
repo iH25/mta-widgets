@@ -1,3 +1,6 @@
 1.0.1
-test update
-#H25
+What's new ?
+- Improvements.
+- Bug fixes.
+
+Thanks for using !
