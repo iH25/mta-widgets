@@ -1,4 +1,2 @@
-1.0.1
-What's new ?
-- Improvements and bug fixes.
+1.0.0
 Thanks for using !
