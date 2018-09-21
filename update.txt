@@ -1,6 +1,4 @@
 1.0.1
 What's new ?
-- Improvements.
-- Bug fixes.
-
+- Improvements and bug fixes.
 Thanks for using !
